@@ -1,0 +1,15 @@
+{
+    "disableAutoUpdate": false,
+    "name": "party-deaths-notifier",
+    "options": {
+        "cliName": "PDN",
+        "guiName": "Party deaths notifier",
+        "settingsVersion": 1,
+        "settingsFile": "./settings/settings.json",
+        "settingsMigrator": "./lib/migration.js"
+    },
+    "author": "KYGAS",
+    "description": "Simple TERA Toolbox module to show beams at dead party members position.",
+    "servers": ["https://raw.githubusercontent.com/KYGAS/party-deaths-notifier/master/"],
+    "supportUrl": "https://github.com/KYGAS/party-deaths-notifier/issues"
+}
