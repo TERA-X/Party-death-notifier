@@ -1,7 +1,6 @@
 {
 	"files": {
 		"LICENSE": "90f8c7dacbf501cfda5f9545c85d705e6cecf6b8f21885e4c5e1f5f9d97dc837",
-		"README.md": "7a8a47b0684a316d028168e7781690ef6ea14e31519a5573f2220764e15f254a",
 		"lib/deathsNotifier.js": "02bcfa6649bdde4b53d93f01d4acf6a28554a80f664f84e3e069a30144b01af3",
 		"lib/migration.js": "af8c0bfb096b25c0de5e60f8cdebeb982cb44066a8d295d99c82bb6a17ce9ac0",
 		"module.json": "a0bdb1a8cab1f6014f97f5024ace3947ebd755ac6c17dc67f36f79078ab01276",
