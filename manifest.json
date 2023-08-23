@@ -1,23 +1,23 @@
 {
-    "files": {
-        "LICENSE": "90f8c7dacbf501cfda5f9545c85d705e6cecf6b8f21885e4c5e1f5f9d97dc837",
-        "README.md": "7a8a47b0684a316d028168e7781690ef6ea14e31519a5573f2220764e15f254a",
-        "lib/deathsNotifier.js": "799442be7d5134c023a2ee173f08a6b7ef6d1705814643bf192d13764e10fc3a",
-        "lib/migration.js": "7f7a3583136202ce2b702e5ea113de0c02deaf5619411cdb50c815c4409cf46f",
-        "module.json": "a0bdb1a8cab1f6014f97f5024ace3947ebd755ac6c17dc67f36f79078ab01276",
-        "package.json": "d8caf910cb9f0c683f08376388d6b077d8c78064e7a2a3f21f9a7607d4a5b9b5",
-        "settings/settings.json": {
-            "overwrite": false,
-            "hash": "7cddd0d3575e46820fd11fa08bc91c78df3c897ec2a46696c62b0219dd8b3627"
-        }
-    },
-    "defs": {
-        "C_TRY_LOOT_DROPITEM": 4,
-        "S_DEAD_LOCATION": 2,
-        "S_DESPAWN_DROPITEM": 4,
-        "S_DESPAWN_USER": 3,
-        "S_PARTY_MEMBER_STAT_UPDATE": 3,
-        "S_SPAWN_DROPITEM": [8,9],
-        "S_SPAWN_USER": 16
-    }
+	"files": {
+		"LICENSE": "90f8c7dacbf501cfda5f9545c85d705e6cecf6b8f21885e4c5e1f5f9d97dc837",
+		"README.md": "7a8a47b0684a316d028168e7781690ef6ea14e31519a5573f2220764e15f254a",
+		"lib/deathsNotifier.js": "02bcfa6649bdde4b53d93f01d4acf6a28554a80f664f84e3e069a30144b01af3",
+		"lib/migration.js": "af8c0bfb096b25c0de5e60f8cdebeb982cb44066a8d295d99c82bb6a17ce9ac0",
+		"module.json": "a0bdb1a8cab1f6014f97f5024ace3947ebd755ac6c17dc67f36f79078ab01276",
+		"package.json": "0797b12cc06ea3d770e2e405d9364ed57b730a5e96a788d44c715ee50a981f5b",
+		"settings/settings.json": {
+			"overwrite": false,
+			"hash": "562f436590021cd42b3e61a4ac6cd05574305e9024826d27121df34adfbbcded"
+		}
+	},
+	"defs": {
+		"C_TRY_LOOT_DROPITEM": 4,
+		"S_DEAD_LOCATION": 2,
+		"S_DESPAWN_DROPITEM": 4,
+		"S_DESPAWN_USER": 3,
+		"S_PARTY_MEMBER_STAT_UPDATE": 3,
+		"S_SPAWN_DROPITEM": [8,9],
+		"S_SPAWN_USER": 16
+	}
 }
